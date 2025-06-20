@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1750385567 source:c:\users\dm\desktop\u.t.n tecnicatura\cpp\vectores\integrador\trabajo_integrador_funciones\main.cpp
+	<iostream>
+	<ctime>
+	"integrador.h"
+
+1750386333 source:c:\users\dm\desktop\u.t.n tecnicatura\cpp\vectores\integrador\trabajo_integrador_funciones\integrador.cpp
+	"integrador.h"
+
+1750382471 c:\users\dm\desktop\u.t.n tecnicatura\cpp\vectores\integrador\trabajo_integrador_funciones\integrador.h
+	<iostream>
+
